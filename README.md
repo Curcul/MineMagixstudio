@@ -1,0 +1,2 @@
+# MineMagixstudio
+GitHub Pages
